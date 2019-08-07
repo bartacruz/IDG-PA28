@@ -1,5 +1,9 @@
 ##
-# storage container for all ND instances
+## Garmin GNS 530 GPS
+#  Author: Julio Santa Cruz <bartacruz@gmail.com>
+#  License: GNU GPL
+##
+#
 var placement= "GNS530.screen";
 var gns_display = {};
 var started = 0;
